@@ -338,7 +338,7 @@ body {
     height: 50px;
 }
 .skills_list span {
-    font-size: 10px;
+    font-size: 12px;
 }
 .skills_list {
     margin-top: 10px;
@@ -416,6 +416,9 @@ body {
     .experience, .skills {
         margin-top: 60px;
     }
+    .skills_list span {
+        font-size: 14px;
+    }
 }
 
 @media (min-width:1000px) {
@@ -445,6 +448,9 @@ body {
     }
     .context_educational_background h4 {
         font-size: 18px;
+    }
+    .skills_list span {
+        font-size: 14px;
     }
 }
 @media (max-width:400px){
